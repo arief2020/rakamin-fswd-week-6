@@ -1,4 +1,4 @@
 # Week 6
-nama: Muhammad Syaifullah Al Arief
-description:
-study about database postgresql
+<p><strong>nama:</strong> Muhammad Syaifullah Al Arief</p>
+<p><strong>description:</strong></p>
+<p>study about database postgresql</p>
